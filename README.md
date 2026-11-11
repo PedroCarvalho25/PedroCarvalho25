@@ -17,7 +17,7 @@ I'm Pedro, based in São Paulo. I'm studying **Data Science and AI at PUC-SP** a
 
 I'm interested in **data analytics, Business Intelligence and AI automation**. I like talking through a problem before deciding what to build. Sometimes it calls for an analysis; sometimes the useful thing is an app that makes someone's work easier. That's where the projects below came from.
 
-My data toolkit includes **Python, SQL and Power BI**. My public projects also use JavaScript, TypeScript, React, Node.js and relational databases.
+My data toolkit includes **Python, SQL (MySQL and PostgreSQL), Power BI, Google Cloud and Microsoft Azure**. My public projects also use Java, JavaScript, TypeScript, React, Node.js and relational databases.
 
 Have a look around. If you're hiring or want to talk about a project, [say hello on LinkedIn](https://www.linkedin.com/in/pedro-carvalho-da-silva-/).
 
