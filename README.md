@@ -50,7 +50,7 @@ I evolved a client's existing prototype into a responsive application for commis
 - **Business lens:** understand the workflow, preserve calculation rules and make everyday information easier to use.
 - **Technical evidence:** JavaScript, PWA, calculations in cents, account flows, persistence and documented delivery decisions.
 
-<a href="https://github.com/PedroCarvalho25/calcula-comissao"><img src="https://raw.githubusercontent.com/PedroCarvalho25/calcula-comissao/HEAD/docs/assets/demo-desktop.png" width="100%" alt="Desktop preview of Calcula-Comissão, a commission simulation and proposal management application using fictional demonstration data." /></a>
+<a href="https://github.com/PedroCarvalho25/calcula-comissao"><img src="assets/commission-preview.webp" width="100%" alt="Desktop preview of Calcula-Comissão, a commission simulation and proposal management application using fictional demonstration data." /></a>
 
 **[Read the case study ↗](https://github.com/PedroCarvalho25/calcula-comissao/blob/HEAD/docs/PORTFOLIO.md)** · [Explore the code ↗](https://github.com/PedroCarvalho25/calcula-comissao)
 
@@ -67,9 +67,9 @@ An authorial digital wardrobe project connecting owned items, inspiration, outfi
 
 <table>
   <tr>
-    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="https://raw.githubusercontent.com/PedroCarvalho25/virtual-closet/HEAD/docs/screenshots/47-inicio-390.png" alt="Virtual Closet home screen" /></a></td>
-    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="https://raw.githubusercontent.com/PedroCarvalho25/virtual-closet/HEAD/docs/screenshots/50-mural-390.png" alt="Visual inspiration feed in Virtual Closet" /></a></td>
-    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="https://raw.githubusercontent.com/PedroCarvalho25/virtual-closet/HEAD/docs/screenshots/80-desejo-no-atelie.png" alt="A visual composition combining inspiration and wardrobe items" /></a></td>
+    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="assets/closet-home.webp" alt="Virtual Closet home screen" /></a></td>
+    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="assets/closet-mural.webp" alt="Visual inspiration feed in Virtual Closet" /></a></td>
+    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="assets/closet-atelier.webp" alt="A visual composition combining inspiration and wardrobe items" /></a></td>
   </tr>
 </table>
 
