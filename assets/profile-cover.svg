@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Carvalho — Data, BI and AI automation</title>
+  <desc id="desc">A midnight blue and mint visual identity with a chart and a connected data pipeline. Business context. Data thinking. Practical solutions.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081321"/><stop offset="1" stop-color="#102639"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#A3E635"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A5BDD2" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+  <path d="M0 0H1280" stroke="#5EEAD4" stroke-width="6"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="56" y="44" width="232" height="30" rx="15" fill="#5EEAD4" fill-opacity=".1" stroke="#5EEAD4" stroke-opacity=".35"/>
+    <circle cx="74" cy="59" r="4" fill="#A3E635"/>
+    <text x="89" y="64" fill="#98F5DF" font-size="12" letter-spacing="2">BUSINESS × DATA × TECH</text>
+    <text x="54" y="150" fill="#F1F6FC" font-size="65" font-weight="700" letter-spacing="-2">Pedro Carvalho<tspan fill="#A3E635">.</tspan></text>
+    <text x="58" y="206" fill="#F1F6FC" font-size="27" font-weight="600">Business context. Data thinking.</text>
+    <text x="58" y="244" fill="#F1F6FC" font-size="27" font-weight="600">Practical solutions.</text>
+    <text x="58" y="288" fill="#9FB5C9" font-size="17">Data Analytics / Business Intelligence / AI Automation</text>
+    <path d="M58 322H646" stroke="#375168"/>
+    <text x="58" y="359" fill="#CCE0ED" font-size="15">PYTHON</text><text x="153" y="359" fill="#5EEAD4" font-size="15">/</text>
+    <text x="177" y="359" fill="#CCE0ED" font-size="15">SQL</text><text x="229" y="359" fill="#5EEAD4" font-size="15">/</text>
+    <text x="253" y="359" fill="#CCE0ED" font-size="15">POWER BI</text>
+    <text x="58" y="399" fill="#9FB5C9" font-size="13">PUC-SP · Data Science &amp; AI student</text>
+    <rect x="757" y="68" width="463" height="309" rx="18" fill="#081321" fill-opacity=".7" stroke="#345169"/>
+    <text x="785" y="101" fill="#9FB5C9" font-size="11" letter-spacing="2">THE SIGNAL IN THE DATA</text>
+    <circle cx="1188" cy="96" r="4" fill="#5EEAD4"/>
+    <g stroke="#264055" stroke-width="1"><path d="M792 148H1188M792 196H1188M792 244H1188M792 292H1188"/></g>
+    <g fill="#284654"><rect x="813" y="231" width="29" height="61" rx="4"/><rect x="869" y="209" width="29" height="83" rx="4"/><rect x="925" y="230" width="29" height="62" rx="4"/><rect x="981" y="180" width="29" height="112" rx="4"/><rect x="1037" y="165" width="29" height="127" rx="4"/><rect x="1093" y="135" width="29" height="157" rx="4"/><rect x="1149" y="116" width="29" height="176" rx="4"/></g>
+    <path d="M827 235L883 215L939 235L995 187L1051 172L1107 144L1163 128" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#A3E635" stroke="#081321" stroke-width="3"><circle cx="827" cy="235" r="5"/><circle cx="883" cy="215" r="5"/><circle cx="939" cy="235" r="5"/><circle cx="995" cy="187" r="5"/><circle cx="1051" cy="172" r="5"/><circle cx="1107" cy="144" r="5"/><circle cx="1163" cy="128" r="6"/></g>
+    <text x="785" y="337" fill="#5EEAD4" font-size="12">QUESTION</text><path d="M867 332H900" stroke="#5EEAD4"/><text x="920" y="337" fill="#5EEAD4" font-size="12">INSIGHT</text><path d="M983 332H1016" stroke="#5EEAD4"/><text x="1036" y="337" fill="#A3E635" font-size="12">ACTION</text>
+  </g>
+</svg>
