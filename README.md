@@ -1,112 +1,76 @@
 <p align="center">
-  <img src="assets/profile-cover.svg" width="100%" alt="Pedro Carvalho — Business context. Data thinking. Practical solutions. Focus: Data, BI and AI automation." />
+  <img src="assets/profile-cover.svg" width="100%" alt="Oi, eu sou o Pedro. Meu foco é Dados, BI e automação com IA. Caderno ilustrado com gráficos, anotações e balões de conversa." />
 </p>
 
 <p align="center">
-  <a href="#the-person-behind-the-data">ABOUT</a> ·
-  <a href="#my-focus">FOCUS</a> ·
-  <a href="#selected-work">SELECTED WORK</a> ·
-  <a href="https://www.linkedin.com/in/pedro-carvalho-da-silva-/">LET'S CONNECT ↗</a>
+  <a href="#sobre-mim">Sobre mim</a> &nbsp; / &nbsp;
+  <a href="#o-que-estou-construindo">Projetos</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/pedro-carvalho-da-silva-/">Vamos conversar?</a>
 </p>
 
-## The person behind the data
+## Sobre mim
 
-I'm **Pedro Carvalho**, a **Data Science & AI student at PUC-SP** and **intern at TikTok**, with previous experience at **Porto Seguro** and **MetLife**.
+Sou o Pedro, de São Paulo. Curso **Ciência de Dados e IA na PUC-SP** e sou **estagiário no TikTok**. Antes, passei pela Porto Seguro e pela MetLife.
 
-My direction is **Data Analytics, Business Intelligence and AI automation**. I'm interested in connecting the business question to the data, the decision and the tools people actually use. My public projects currently show the product and software side of that journey: building interfaces, working with databases and translating practical needs into usable applications.
+Meu foco é **análise de dados, Business Intelligence e automação com IA**. Gosto de entender o que a pessoa precisa antes de sair escolhendo ferramenta. Às vezes o trabalho pede uma análise; às vezes, uma aplicação para facilitar a rotina. Os projetos aqui vieram desse segundo caminho.
 
-> **Context first. Clear reasoning. Useful outcomes.**
+Tenho interesse em **Python, SQL e Power BI**. Nos meus projetos públicos você também vai encontrar JavaScript, TypeScript, React, Node.js e bancos de dados.
 
-<p>
-  <a href="https://www.linkedin.com/in/pedro-carvalho-da-silva-/">LinkedIn ↗</a> &nbsp;·&nbsp;
-  <a href="https://github.com/PedroCarvalho25?tab=repositories">Explore my repositories ↗</a> &nbsp;·&nbsp;
-  São Paulo, Brazil
-</p>
+Se você veio conhecer meu trabalho, dá uma olhada abaixo. Se quiser falar sobre uma vaga ou trocar uma ideia, [me chama no LinkedIn](https://www.linkedin.com/in/pedro-carvalho-da-silva-/).
 
-## My focus
+## O que estou construindo
 
-<img src="assets/data-flow.svg" width="100%" alt="My approach: understand the business question, structure the data, make the insight clear, and connect it to a useful action." />
+### Calcula-Comissão
 
-| Direction | What I want to bring to the work |
-| :--- | :--- |
-| **Data Analytics · Python · SQL** | Well-framed questions, structured data and analysis people can understand. |
-| **Business Intelligence · Power BI** | Clear metrics, readable dashboards and context for business decisions. |
-| **AI & automation** | Practical workflows that connect information, tools and human review. |
-| **Product & engineering** | Interfaces and applications that turn a business need into a usable solution. |
+Uma cliente já usava um protótipo HTML no trabalho. Eu ajudei a transformar aquilo em uma aplicação para simular comissões, organizar propostas e usar no celular ou computador.
 
-**Tools in my data focus:** Python · SQL · Power BI  
-**Technologies represented in my public work:** JavaScript · TypeScript · React · React Native · Node.js · PostgreSQL · Supabase · SQLite · Prisma
+Tem cálculo em centavos, histórico, exportação e versão instalável como PWA. Os dados desta edição pública são fictícios.
 
-## Selected work
-
-Three projects. Three ways of turning a practical problem into software.
-
-### 01 / Calcula-Comissão
-
-**A business need, turned into a working tool.**
-
-I evolved a client's existing prototype into a responsive application for commission simulations and proposal organization. The public edition uses fictional commercial data.
-
-- **Business lens:** understand the workflow, preserve calculation rules and make everyday information easier to use.
-- **Technical evidence:** JavaScript, PWA, calculations in cents, account flows, persistence and documented delivery decisions.
-
-<a href="https://github.com/PedroCarvalho25/calcula-comissao"><img src="assets/commission-preview.webp" width="100%" alt="Desktop preview of Calcula-Comissão, a commission simulation and proposal management application using fictional demonstration data." /></a>
-
-**[Read the case study ↗](https://github.com/PedroCarvalho25/calcula-comissao/blob/HEAD/docs/PORTFOLIO.md)** · [Explore the code ↗](https://github.com/PedroCarvalho25/calcula-comissao)
-
----
-
-### 02 / Virtual Closet
-
-**Personal information, organized into a visual product.**
-
-An authorial digital wardrobe project connecting owned items, inspiration, outfit planning and more intentional purchase decisions. **In development.**
-
-- **Data lens:** structured records, usage history, cost per wear and explainable, deterministic suggestions.
-- **Technical evidence:** Expo, React Native, TypeScript, Supabase/PostgreSQL, private storage, Row Level Security and documented tests.
-
-<table>
-  <tr>
-    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="assets/closet-home.webp" alt="Virtual Closet home screen" /></a></td>
-    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="assets/closet-mural.webp" alt="Visual inspiration feed in Virtual Closet" /></a></td>
-    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="assets/closet-atelier.webp" alt="A visual composition combining inspiration and wardrobe items" /></a></td>
-  </tr>
-</table>
-
-**[Explore the product and its current limits ↗](https://github.com/PedroCarvalho25/virtual-closet)**
-
----
-
-### 03 / Keener — Inventory Control
-
-**Reliable records behind everyday operations.**
-
-A full-stack inventory application built as a technical case, with authentication, product management and a history of stock movements.
-
-- **Data lens:** traceable changes, consistent inventory and rules that prevent stock from becoming negative.
-- **Technical evidence:** React, Node.js, Express, SQLite, Prisma, Zod and API tests.
-
-**[Explore the architecture and code ↗](https://github.com/PedroCarvalho25/keener-estoque)**
+[Como foi o projeto](https://github.com/PedroCarvalho25/calcula-comissao/blob/HEAD/docs/PORTFOLIO.md) · [Repositório](https://github.com/PedroCarvalho25/calcula-comissao)
 
 <details>
-  <summary><strong>Looking at my profile for a data role? Start here ↓</strong></summary>
+  <summary>Ver a aplicação</summary>
 
   <br />
-
-  My target direction is **Data Analytics, BI and AI automation**. The repositories above provide evidence of adjacent skills: understanding business needs, modeling and persisting information, validating rules and delivering usable tools.
-
-  For business context and delivery decisions, start with the **Calcula-Comissão case study**. For structured data, privacy and explainable product logic, explore **Virtual Closet**. For transactions and data consistency, explore **Keener**.
-
-  The public portfolio currently emphasizes applications. Dedicated Python analysis and Power BI cases are not yet represented in these repositories.
+  <a href="https://github.com/PedroCarvalho25/calcula-comissao"><img src="assets/commission-preview.webp" width="100%" alt="Calcula-Comissão: tela da aplicação para simular comissões e organizar propostas com dados fictícios." /></a>
 
 </details>
 
-## Let's connect
+### Virtual Closet
 
-Interested in opportunities at the intersection of **business, data and technology**, with a focus on **Data Analytics, Business Intelligence and AI automation**.
+Sabe aquela peça que fica esquecida no armário? Estou construindo um closet digital para organizar roupas, guardar referências e experimentar combinações com o que a pessoa já tem.
 
-**[Find me on LinkedIn ↗](https://www.linkedin.com/in/pedro-carvalho-da-silva-/)**
+É meu projeto autoral e **ainda está em desenvolvimento**. Uso Expo, React Native, TypeScript e Supabase. Ele guarda histórico de uso, calcula custo por uso e sugere combinações a partir de regras de categoria e cor. O provador realista ainda é experimental.
 
-<p align="center">
-  <img src="assets/profile-footer.svg" width="100%" alt="From a better question to a better decision. Pedro Carvalho — Business × Data × Technology." />
-</p>
+<table>
+  <tr>
+    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="assets/closet-home.webp" alt="Tela inicial do Virtual Closet" /></a></td>
+    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="assets/closet-mural.webp" alt="Mural de referências de estilo" /></a></td>
+    <td width="33%"><a href="https://github.com/PedroCarvalho25/virtual-closet"><img src="assets/closet-atelier.webp" alt="Ateliê para montar composições visuais" /></a></td>
+  </tr>
+</table>
+
+[Conhecer o Virtual Closet](https://github.com/PedroCarvalho25/virtual-closet)
+
+### Keener: controle de estoque
+
+Um case técnico com cadastro de produtos, entradas, saídas e histórico de movimentações. Usei React, Node.js, SQLite e Prisma.
+
+A regra principal é simples: toda mudança no estoque precisa de uma movimentação registrada. A aplicação também impede saídas maiores que a quantidade disponível.
+
+[Ver o projeto](https://github.com/PedroCarvalho25/keener-estoque)
+
+<details>
+  <summary>Veio por uma vaga em dados?</summary>
+
+  <br />
+
+  Meu interesse está em **Data Analytics, Business Intelligence e automação com IA**. Por enquanto, os repositórios públicos são de aplicações; ainda não tenho um case dedicado a Python ou Power BI por aqui.
+
+  No Calcula-Comissão, contei como entendi os pedidos da cliente e conduzi a entrega. No Virtual Closet, dá para ver organização de dados, histórico e privacidade. No Keener, o foco é manter as movimentações e o estoque consistentes.
+
+</details>
+
+## Vamos conversar?
+
+[LinkedIn](https://www.linkedin.com/in/pedro-carvalho-da-silva-/) · [Todos os repositórios](https://github.com/PedroCarvalho25?tab=repositories)
